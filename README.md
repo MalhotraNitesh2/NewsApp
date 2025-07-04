@@ -1,6 +1,3 @@
-✅ Thanks for the screenshots and details! Here’s a **natural, human-written README** for your project — no AI vibe, just clean and authentic.
-
----
 
 # NewsApp
 
@@ -24,7 +21,10 @@ You can tap any news item to open the full article directly in Safari.
 
 | News Feed (Dark Mode)                          | Open Article in Safari                         | Landscape Support                              |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![screenshot](https://via.placeholder.com/150) | ![screenshot](https://via.placeholder.com/150) | ![screenshot](https://via.placeholder.com/150) |
+| ![image](https://github.com/user-attachments/assets/94970687-779f-4fe7-803d-d3fa90207b4d)
+ |![image](https://github.com/user-attachments/assets/1be85414-ad57-4386-9ebf-b0dbcfc1818b)
+|![image](https://github.com/user-attachments/assets/e1a24e5a-2379-4b98-97b0-15fe81b49232)
+ |
 
 *(Replace the placeholders above with your actual screenshots or upload them to a hosting service.)*
 
@@ -56,12 +56,5 @@ You can tap any news item to open the full article directly in Safari.
 
 ---
 
-## Notes
 
-* The app currently opens articles externally in Safari. In the future, this could be updated to use an in-app browser (`SFSafariViewController`).
-* There’s basic image caching using the view model’s `imageData`. For production use, a more robust cache (like `NSCache` or a library) is recommended.
 
----
-
-👉 Feel free to customize this README further!
-If you'd like, I can **generate badges**, **add installation steps**, or **format it for GitHub** — just let me know! 🚀
