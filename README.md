@@ -19,12 +19,10 @@ You can tap any news item to open the full article directly in Safari.
 
 ## Screenshots
 
-| News Feed (Dark Mode)                          | Open Article in Safari                         | Landscape Support                              |
-| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![image](https://github.com/user-attachments/assets/94970687-779f-4fe7-803d-d3fa90207b4d)
- |![image](https://github.com/user-attachments/assets/1be85414-ad57-4386-9ebf-b0dbcfc1818b)
-|![image](https://github.com/user-attachments/assets/e1a24e5a-2379-4b98-97b0-15fe81b49232)
- |
+| News Feed (Dark Mode) | Open Article in Safari | Landscape Support |
+|-----------------------|-----------------------|------------------|
+| <img src="https://github.com/user-attachments/assets/94970687-779f-4fe7-803d-d3fa90207b4d" width="250"> | <img src="https://github.com/user-attachments/assets/1be85414-ad57-4386-9ebf-b0dbcfc1818b" width="250"> | <img src="https://github.com/user-attachments/assets/e1a24e5a-2379-4b98-97b0-15fe81b49232" width="250"> |
+
 
 ---
 
