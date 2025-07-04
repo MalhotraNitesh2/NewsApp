@@ -26,8 +26,6 @@ You can tap any news item to open the full article directly in Safari.
 |![image](https://github.com/user-attachments/assets/e1a24e5a-2379-4b98-97b0-15fe81b49232)
  |
 
-*(Replace the placeholders above with your actual screenshots or upload them to a hosting service.)*
-
 ---
 
 ## How it works
